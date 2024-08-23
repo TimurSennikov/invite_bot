@@ -8,7 +8,7 @@ const queue = new Queue();
 
 const bot = new Telegraf("TOKEN");
 
-const chatID = -1002164449669;
+const chatID = 1000;
 const adminsID = [6589873790, 6463448650];
 
 bot.start((ctx) => {
